@@ -147,5 +147,82 @@
       "bonding_curve_progress": 0.12,
       "is_graduated": false
     }
-  ]
+  ],
+  "all_tokens": {
+    "44196397": {
+      "mint_address": "8xJ4dK9R2mP7vL3nQ6sT1wY5zA8bC4eF",
+      "symbol": "JOHND",
+      "name": "JohnDoeToken",
+      "creator_wallet": "5uM9vL2nP7xK4bC8eF1qR6sT3wY7zA9",
+      "twitter_handle": "johndoe",
+      "twitter_user_id": "44196397",
+      "created_at": "2025-06-09T09:45:00Z",
+      "current_price": 0.0124,
+      "price_change_24h": 15.7,
+      "volume_24h": 12450.50,
+      "market_cap": 52000.00,
+      "bonding_curve_progress": 0.23,
+      "is_graduated": false
+    },
+    "1234567890": {
+      "mint_address": "7wH3gK8L1nM6vJ2oQ5rS4xZ9aB7cD0eE",
+      "symbol": "CRYPTO",
+      "name": "CryptoGuruCoin",
+      "creator_wallet": "4tL8nM6vJ2oQ5rS4xZ9aB7cD0eE1qP3",
+      "twitter_handle": "cryptoguru",
+      "twitter_user_id": "1234567890",
+      "created_at": "2025-06-09T08:20:00Z",
+      "current_price": 0.0089,
+      "price_change_24h": -3.2,
+      "volume_24h": 8930.25,
+      "market_cap": 31200.00,
+      "bonding_curve_progress": 0.18,
+      "is_graduated": false
+    },
+    "9876543210": {
+      "mint_address": "9yI5fJ9M2oL7wK4bN8vQ1rS6xT3zA0eG",
+      "symbol": "MEME",
+      "name": "MemeLordToken",
+      "creator_wallet": "6vJ2oL7wK4bN8vQ1rS6xT3zA0eG5uM9",
+      "twitter_handle": "memelord",
+      "twitter_user_id": "9876543210",
+      "created_at": "2025-06-09T07:15:00Z",
+      "current_price": 0.0156,
+      "price_change_24h": 42.3,
+      "volume_24h": 23100.75,
+      "market_cap": 67400.00,
+      "bonding_curve_progress": 0.45,
+      "is_graduated": false
+    },
+    "5555555555": {
+      "mint_address": "3zG6hJ0N4pM8yL5cO2rV7wX1aB9dE4fH",
+      "symbol": "ARTIST",
+      "name": "ArtistVibeToken",
+      "creator_wallet": "8yL5cO2rV7wX1aB9dE4fH3zG6hJ0N4p",
+      "twitter_handle": "artistvibe",
+      "twitter_user_id": "5555555555",
+      "created_at": "2025-06-09T06:30:00Z",
+      "current_price": 0.0067,
+      "price_change_24h": 8.9,
+      "volume_24h": 5670.40,
+      "market_cap": 24500.00,
+      "bonding_curve_progress": 0.12,
+      "is_graduated": false
+    },
+    "1111111111": {
+      "mint_address": "2aF5gI8K1mN9xM6vJ3oQ7rS0wZ4bC8eL",
+      "symbol": "TECH",
+      "name": "TechBroToken",
+      "creator_wallet": "9xM6vJ3oQ7rS0wZ4bC8eL2aF5gI8K1m",
+      "twitter_handle": "techbro",
+      "twitter_user_id": "1111111111",
+      "created_at": "2025-06-09T05:45:00Z",
+      "current_price": 0.0234,
+      "price_change_24h": -12.5,
+      "volume_24h": 15680.90,
+      "market_cap": 89200.00,
+      "bonding_curve_progress": 0.67,
+      "is_graduated": false
+    }
+  }
 }
