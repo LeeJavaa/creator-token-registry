@@ -149,7 +149,7 @@
     }
   ],
   "all_tokens": {
-    "44196397": {
+    "111111111": {
       "mint_address": "8xJ4dK9R2mP7vL3nQ6sT1wY5zA8bC4eF",
       "symbol": "JOHND",
       "name": "JohnDoeToken",
@@ -194,12 +194,12 @@
       "bonding_curve_progress": 0.45,
       "is_graduated": false
     },
-    "14156569": {
+    "44196397": {
       "mint_address": "3zG6hJ0N4pM8yL5cO2rV7wX1aB9dE4fH",
       "symbol": "ELON",
       "name": "ElonMusk",
       "creator_wallet": "8yL5cO2rV7wX1aB9dE4fH3zG6hJ0N4p",
-      "twitter_handle": "elon",
+      "twitter_handle": "elonmusk",
       "twitter_user_id": "14156569",
       "created_at": "2025-06-09T06:30:00Z",
       "current_price": 0.0067,
