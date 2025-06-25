@@ -194,28 +194,28 @@
       "bonding_curve_progress": 0.45,
       "is_graduated": false
     },
-    "5555555555": {
+    "14156569": {
       "mint_address": "3zG6hJ0N4pM8yL5cO2rV7wX1aB9dE4fH",
-      "symbol": "ARTIST",
-      "name": "ArtistVibeToken",
+      "symbol": "ELON",
+      "name": "ElonMusk",
       "creator_wallet": "8yL5cO2rV7wX1aB9dE4fH3zG6hJ0N4p",
-      "twitter_handle": "artistvibe",
-      "twitter_user_id": "5555555555",
+      "twitter_handle": "elon",
+      "twitter_user_id": "14156569",
       "created_at": "2025-06-09T06:30:00Z",
       "current_price": 0.0067,
       "price_change_24h": 8.9,
       "volume_24h": 5670.40,
       "market_cap": 24500.00,
       "bonding_curve_progress": 0.12,
-      "is_graduated": false
+      "is_graduated": true
     },
-    "1111111111": {
+    "155659213": {
       "mint_address": "2aF5gI8K1mN9xM6vJ3oQ7rS0wZ4bC8eL",
-      "symbol": "TECH",
-      "name": "TechBroToken",
+      "symbol": "CR7",
+      "name": "CristianoRonaldo",
       "creator_wallet": "9xM6vJ3oQ7rS0wZ4bC8eL2aF5gI8K1m",
-      "twitter_handle": "techbro",
-      "twitter_user_id": "1111111111",
+      "twitter_handle": "cristiano",
+      "twitter_user_id": "155659213",
       "created_at": "2025-06-09T05:45:00Z",
       "current_price": 0.0234,
       "price_change_24h": -12.5,
